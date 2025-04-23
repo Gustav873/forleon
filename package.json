@@ -1,0 +1,55 @@
+{
+  "name": "perplex",
+  "version": "1.0.0",
+  "description": "Perplex is a multipurpose Discord Bot, with features like a captcha system, join-to-create system and much more - Released: 28.07.2022 - [Invite the bot](https://discord.com/oauth2/authorize?client_id=1000417670153375824&permissions=8&scope=bot%20applications.commands) <p align=\"center\"> \t<a href=\"https://discord.gg/yVWygKS3Xn\"> \t\t<img src=\"https://canary.discordapp.com/api/guilds/999373116918743100/embed.png\" alt=\"Discord server\"> \t</a> </p>",
+  "main": "src/bot.js",
+  "engines": {
+    "npm": ">=8.15.0",
+    "node": ">=16.9.0"
+  },
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.1.0",
+    "@discordjs/opus": "^0.8.0",
+    "@discordjs/rest": "^1.0.1",
+    "@discordjs/voice": "^0.11.0",
+    "@distube/soundcloud": "^1.2.1",
+    "@distube/spotify": "^1.3.2",
+    "@iamtraction/google-translate": "^1.1.2",
+    "@miudiscord/together": "^1.0.3",
+    "ascii-table": "^0.0.9",
+    "canvacord": "^5.4.2",
+    "captcha-canvas": "^3.1.0",
+    "chalk": "^4.1.2",
+    "discord-api-types": "^0.36.3",
+    "discord-player": "^5.2.2",
+    "discord-together": "^1.3.3",
+    "discord.js": "^14.0.3",
+    "distube": "^4.0.3",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "ffmpeg-static": "^4.4.1",
+    "figlet": "^1.5.2",
+    "libsodium-wrappers": "^0.7.10",
+    "mongoose": "^6.4.6",
+    "random-puppy": "^1.1.0",
+    "yt-search": "^2.10.3",
+    "ytdl-core": "^4.11.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gokiimax/Perplex-Bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gokiimax/Perplex-Bot/issues"
+  },
+  "homepage": "https://github.com/gokiimax/Perplex-Bot#readme",
+  "devDependencies": {
+    "node": "^16.20.2"
+  }
+}

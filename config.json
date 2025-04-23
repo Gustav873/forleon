@@ -1,0 +1,7 @@
+{
+    "developerGuild": "1362387413376434317",
+    "activityInterval": 5,
+    "botMainColor": "0xff5454",
+    "botErrorColor": "0xdb3535",
+    "database": "mongodb+srv://arianhartmann2:dSA6xFrYF4LEjrjf@nevoy.zibh1ph.mongodb.net/?retryWrites=true&w=majority&appName=Nevoy"
+}
